@@ -28,5 +28,4 @@ PLUib4KwT0DMJaPgg_nr1ia8FY5JcXksvb
 # Links (to youtube videos, soundcloud, radio, streams, etc)
 # Searches (prefixed with ytsearch or scsearch as shown above)
 # Youtube video or playlist IDs
-# Youtube playlist links (https://github.com/jagrosh/MusicBot/wiki/Playlists)
 # Local files (C:\Users\Name\Music\MySong.mp3)
